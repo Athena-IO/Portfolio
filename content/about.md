@@ -136,8 +136,8 @@ const sitemap = new SitemapStream({
 ## 📫 Contact
 
 - **Email:** mehdifazzli83@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mehdi-fazzli-458619334/)
-- **GitHub:** [github.com/your-username](https://github.com/Athena-IO)
+- **LinkedIn:** [linkedin.com/in/mehdi-fazzli](https://www.linkedin.com/in/mehdi-fazzli-458619334/)
+- **GitHub:** [github.com/Athena-IO](https://github.com/Athena-IO)
 
 ---
 
