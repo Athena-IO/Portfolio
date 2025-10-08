@@ -4,42 +4,147 @@ description: "meta description of the page"
 
 # Hello There, I'm Athena-IO
 
-## About me
+```javascript
+// >>=============================================================<<
+// ||                                                             ||
+// ||                                                             ||
+// ||          _    _                                _____  ____  ||
+// ||    /\   | |  | |                              |_   _|/ __ \ ||
+// ||   /  \  | |_ | |__    ___  _ __    __ _  ______ | | | |  | |||
+// ||  / /\ \ | __|| '_ \  / _ \| '_ \  / _` ||______|| | | |  | |||
+// || / ____ \| |_ | | | ||  __/| | | || (_| |       _| |_| |__| |||
+// ||/_/    \_\\__||_| |_| \___||_| |_| \__,_|      |_____|\____/ ||
+// ||                                                             ||
+// ||                                                             ||
+// >>=============================================================<<
+//
+//                     ATHENA-IO
+//        Intelligent, clean, and elegant portfolio site
+//                Crafted by Mehdi Fazzli
+// -----------------------------------------------------
+```
 
-I'm Athena-IO, I'm a developer and a Game and Web Designer. I'm 20, living in australia sydney. I'm Gamer and Musician 🎸.
+---
 
-## What I do Most of The Time
+## 👋 Introduction
 
-I do a lots of Things like:
+Hey there! I’m **Amir Mehdi Fazzli**, a **developer**, **designer**, and **creator** behind **Athena-IO**.  
+I’m **20 years old**, living in **Sydney, Australia** 🇦🇺.  
+When I’m not coding, you’ll find me **playing guitar 🎸**, **gaming**, or **designing** something creative.
 
-- Making Music With my beutiful guitar
+Athena-IO is my personal portfolio project — a space where I share what I build, what I learn, and what I love.
 
-- Making Apps as FrontEnd developer with my FullStack Skills(mostly FrontEnd)
+---
 
-- FrameWorks that i use most of the Time(Vue,Nuxt,NestJS)
+## 💻 What I Do Most of the Time
 
-- I'm Designer and i Design lots of Things(Anime,UserInterface,Manga,Game and ...)
+I spend my time doing things that mix creativity and logic:
 
-- I'm very passionate About lots of Things,most likely Something That you do with Group thats why I Spend lots of my Time With PPL
+- 🎸 Making music with my guitar
+- 💻 Building web apps as a **Front-End Developer** with Full-Stack knowledge
+- ⚙️ Using frameworks like **Vue**, **Nuxt**, and **NestJS**
+- 🎨 Designing everything from **anime art** and **UI interfaces** to **manga** and **game concepts**
+- 🤝 Collaborating with people who love building cool things together
 
-## What software/hardware do I use?
+---
 
-Here's a list of everyday used software and hardware:
+## 🧰 Tech Stack
+
+**Languages:**  
+JavaScript (ES6+), TypeScript
+
+**Frameworks & Tools:**  
+Vue 3, Nuxt 3, NestJS, Tailwind CSS, Pinia, Vite, Webpack
+
+**Backend & Deployment:**  
+Node.js, Express, Firebase, Vercel, Netlify
+
+**Design Tools:**  
+Photoshop, Figma, Aseprite
+
+**Game Dev Tools:**  
+Unity (C#, 2D/3D), WebGL
+
+---
+
+## 💿 Hardware & Software
+
+**Hardware**
 
 - MacBook Pro 2015
+- Rode NT USB Microphone
 
-- Rode NT USB microphone
+**Software**
 
-- VSCode
-
+- VS Code
 - Chrome
-
 - ScreenFlow (Mac only)
-
 - Docker
-
-- Unity
-
 - IntelliJ & WebStorm
+- Unity
+- Photoshop, Aseprite, Figma
 
-- and OtherStuff(Photoshop,Aseprite,Figma & ...)
+---
+
+## 🚀 Featured Projects
+
+### 1. Athena-IO — Portfolio
+
+A clean, fast, and content-driven portfolio built with **Nuxt 3** and **@nuxt/content**, featuring markdown-based project pages, smooth animations, and SEO optimization.
+
+**Highlights:**
+
+- Dynamic content loading
+- SEO-friendly structure
+- Deployed on **Vercel**
+
+```bash
+# Install dependencies
+npm install
+
+# Run in development
+npm run dev
+
+# Build for production
+npm run build && npm run start
+```
+
+---
+
+### 2. Perfume Lab
+
+A concept web app for creating and showcasing custom perfumes.  
+**Stack:** Nuxt 3, Pinia, Tailwind CSS, Composition API.
+
+---
+
+### 3. Mini Game Demo
+
+A 2D Unity game where the player collects points, fights enemies, and powers up.  
+**Tech:** Unity, C#, WebGL Export.
+
+---
+
+```javascript
+const sitemap = new SitemapStream({
+  hostname: "http://Athena-IO.Portfolio",
+});
+```
+
+---
+
+## 📫 Contact
+
+- **Email:** mehdifazzli83@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mehdi-fazzli-458619334/)
+- **GitHub:** [github.com/your-username](https://github.com/Athena-IO)
+
+---
+
+## 📜 License
+
+Released under the **MIT License** — feel free to use, modify, and share.
+
+---
+
+> ✨ _Built with code, creativity, and caffeine ☕ — by Athena-IO_

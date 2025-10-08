@@ -5,7 +5,7 @@ export default defineEventHandler(async (event) => {
   // Fetch all documents
   const docs = await serverQueryContent(event).find();
   const sitemap = new SitemapStream({
-    hostname: "http://Athena-IO",
+    hostname: "http://Athena-IO.Portfolio",
   });
 
   for (const doc of docs) {
